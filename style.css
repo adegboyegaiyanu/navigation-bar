@@ -1,0 +1,22 @@
+hor-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+    overflow: hidden;
+
+}
+
+.hor-li {
+    float: left;
+    padding: 16px;
+}
+
+.hor-a {
+    padding: 16px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+
+}
